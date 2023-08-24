@@ -1,8 +1,5 @@
 <h1> Olá, aqui é Daniele Simas </h1>
 
-
-
-##
 <h3 align="left"> Linguages</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
