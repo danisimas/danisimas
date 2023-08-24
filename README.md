@@ -2,16 +2,6 @@
 
 
 
-<div style="display: inline_block"><br>
-<a href="https://github.com/danisimas/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danisimas&show_icons=true&theme=dracula" />
-</a>
-
-<a href="https://github.com/danisimas/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danisimas&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
-</div>
-
 ##
 <h3 align="left"> Linguages</h3>
 <div style="display: inline_block"><br>
