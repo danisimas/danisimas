@@ -1,5 +1,8 @@
 <h1> Olá, aqui é Daniele Simas </h1>
 
+
+
+
 <h3 align="left"> Linguages</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,6 +16,12 @@
 
 ##
 
+<div style="display: flex; justify-content: space-between;">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danisimas&show_icons=true&theme=default#gh-light-mode-only" style="width: 48%;" alt="Dani's GitHub stats" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisimas&layout=donut" style="width: 48%;" alt="Top Langs" />
+</div>
+
+## 
 <h3 align="left">Contato:</h3>
 <div> 
   <a href = "mailto:daniele.simas.25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
