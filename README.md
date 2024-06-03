@@ -5,12 +5,12 @@
 <br>
 
 <h3 align="center">Tecnologias que domínio</h3>
-  <p align="left">
+  <p align="center">
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src=https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white>  <img src=https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white> <img src=https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white>
    <img src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
    <img src=https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white>
    </p>
-<h3 align="center">Tecnologias que conheço</h3>  <p align="left">
+<h3 align="center">Tecnologias que conheço</h3>  <p align="center">
   <br>
   <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB>
   <img src=https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37>
