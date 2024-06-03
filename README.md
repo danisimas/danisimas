@@ -1,7 +1,6 @@
 <div align="center">
     <h3> Olá, aqui é Daniele Simas </h3>
     <img align="center" alt="Coding" width="400" src="gifs/programming-computer-frog.gif">
-</div>
 
 <br>
 
